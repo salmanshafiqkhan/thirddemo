@@ -5,3 +5,5 @@ new changes
 updated for merge commit
 
 working in rebase
+
+updated for rebase in master
